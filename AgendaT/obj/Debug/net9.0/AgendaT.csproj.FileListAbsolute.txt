@@ -1,0 +1,14 @@
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\bin\Debug\net9.0\AgendaT.exe
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\bin\Debug\net9.0\AgendaT.deps.json
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\bin\Debug\net9.0\AgendaT.runtimeconfig.json
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\bin\Debug\net9.0\AgendaT.dll
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\bin\Debug\net9.0\AgendaT.pdb
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\obj\Debug\net9.0\AgendaT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\obj\Debug\net9.0\AgendaT.AssemblyInfoInputs.cache
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\obj\Debug\net9.0\AgendaT.AssemblyInfo.cs
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\obj\Debug\net9.0\AgendaT.csproj.CoreCompileInputs.cache
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\obj\Debug\net9.0\AgendaT.dll
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\obj\Debug\net9.0\refint\AgendaT.dll
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\obj\Debug\net9.0\AgendaT.pdb
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\obj\Debug\net9.0\AgendaT.genruntimeconfig.cache
+C:\Users\47709625843\Desktop\BackEnd\AgendaT\obj\Debug\net9.0\ref\AgendaT.dll
