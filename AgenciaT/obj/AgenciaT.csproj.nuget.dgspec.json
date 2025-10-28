@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgendaT\\AgendaT.csproj": {}
+    "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgenciaT\\AgenciaT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgendaT\\AgendaT.csproj": {
+    "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgenciaT\\AgenciaT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgendaT\\AgendaT.csproj",
-        "projectName": "AgendaT",
-        "projectPath": "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgendaT\\AgendaT.csproj",
+        "projectUniqueName": "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgenciaT\\AgenciaT.csproj",
+        "projectName": "AgenciaT",
+        "projectPath": "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgenciaT\\AgenciaT.csproj",
         "packagesPath": "C:\\Users\\47709625843\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgendaT\\obj\\",
+        "outputPath": "C:\\Users\\47709625843\\Desktop\\BackEnd\\AgenciaT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\47709625843\\AppData\\Roaming\\NuGet\\NuGet.Config"
