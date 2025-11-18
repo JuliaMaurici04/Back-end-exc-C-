@@ -7,10 +7,26 @@ namespace Exercicio02
 {
     public class Contrato : IImprimivel
     {
-        public string Dono = "";
+        public string Contratante = "";
+        public string PrestadorServico = "";
+        public string TextoClausulas = "";
+
+        public Contrato(string contratante, string contratada, string txtClausulas)
+        {
+            Contratante = contratante;
+            PrestadorServico = contratada;
+            TextoClausulas = txtClausulas;
+        }
         public void Imprimir()
         {
-            System.Console.WriteLine($"Imprimindo Contrato do {Dono}...");
+            Console.WriteLine($@"
+            Partes:  
+                Contratante: {Contratante}
+                Contratada: {PrestadorServico}
+                Clausulas do Contratante do Contrato:
+
+                ()
+            ");
         }
     }
 }
