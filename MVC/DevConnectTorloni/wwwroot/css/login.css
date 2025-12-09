@@ -1,0 +1,104 @@
+main{
+    width: 100%;
+    min-height: 100vh;/*Altura da janela do meu dispositivo*/
+    display: flex;
+    align-items: center; /*alinha no sentido ao contrario do flex*/
+    justify-content: center; /*alinha no sentido do flex*/
+
+    }
+
+
+    main > div {
+        width: 90%;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+
+        
+    }
+
+    /* FORMULARIO */
+    #formulario{
+    background-color: var(--cor-branco);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3%;
+    gap: 10px;
+    
+    }
+
+    /* CADASTRO */
+    #cadastro{
+        height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--cor-branco);
+
+    }
+
+    .estilo-formulario{
+     max-width: 340px;
+    }
+
+    #formulario > div{
+        width: 100%;
+
+    }
+
+    #formulario > div > label{
+        font-size: var(--tamanho-fonte-sm);
+        color: var(--cor-cinza-claro1);
+        font-weight: 500; /*aumenta ou diminui a esper*/
+        padding-bottom: 4px;
+    }
+
+    .formulario-botao-azul{
+        width: 100%;
+    }
+
+    #formulario > p{
+        text-transform: uppercase;
+        font-size: var(--tamanho-fonte-sm);
+        color: var(--cor-cinza-claro1);
+    }
+
+    #formulario > a, #cadastro > p > a{
+        text-decoration: none;
+        color: var(--cor-azul);
+    }
+
+    #cadastro > p{
+        font-size: var(--tamanho-fonte-md);
+    }
+
+    .informacao-aplicativo{
+    /*  background-color: chocolate;*/
+        font-size: var(--tamanho-fonte-sm);
+        color: var(--cor-preto);
+        font-weight: 400;
+    }
+
+    #secao-istalacao{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+    .informacao-aplicativo img{
+        width: 120px;
+        height: 40px;
+    }
+
+    .formulario-botao-azul{
+        background-color: var(--cor-azul);
+        border-radius: var(--borda-arredondada);/*Arredonda os cantos dos elementos*/
+        border: nome; /*Removendo a borda*/
+        height: 25px;
+        color: var(--cor-branco);
+        font-size: var(--cor-cinza-claro1);
+        margin-top: 18px;
+    }

@@ -1,0 +1,58 @@
+@model DevConnectTorloni.Models.Usuario;
+
+<link rel="stylesheet" href="~/css/Cadastro.css">
+
+<script defer>
+    const usuarioNovoCadastrado = "@ViewBag.usuarioNovoCadastro";
+
+    if (usuarioNovoCadastrado == "Nao cadastrado") {
+        alert("Usuario nao cadastrado! Tente novamente 😔");
+    }
+
+</script>
+
+<main>
+    <div>
+        <form id="formulario-cadastro" class="estilo-formulario" enctype="multipart/form-data" asp-action="Index"
+            asp-controller="Usuario">
+            <img src="../images/logo-devconnect2.svg" alt="">
+
+            <p>Cadastre-se para comunidade exclusiva para desenvolvedores(as).</p>
+
+            <div>
+                <label for="nome-completo">Nome e Sobrenome</label>
+                <input type="text" asp-for="NomeCompleto">
+            </div>
+
+            <div>
+                <label for="">Nome de Usuario</label>
+                <input type="text" asp-for="NomeUsuario">
+            </div>
+
+            <div>
+                <label for="">Email</label>
+                <input type="email" asp-for="Email">
+            </div>
+
+            <div>
+                <label for="">Senha</label>
+                <input type="password" asp-for="Senha">
+
+            </div>
+
+            <div>
+                <label for="campo-upload" id="texto-upload">Faca upload da sua imagem aqui...</label>
+                <input type="file" id="arquivo" name="imagem">
+            </div>
+
+            <button type="submit" class="estrutura-cadastro-botao">Cadastre-se</button>
+
+            <p>Ao se cadastrar, voce concorda com nossos Termos, Politica de Dados e Politica de Cookies.</p>
+
+        </form>
+        <section id="login" class="estilo-formulario">
+            <p>Tem uma conta? <a href="../pages/index.html">Conecte-se</a> </p>
+
+        </section>
+    </div>
+</main>

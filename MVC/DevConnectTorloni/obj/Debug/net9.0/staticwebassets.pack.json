@@ -5,12 +5,220 @@
       "PackagePath": "staticwebassets\\DevConnectTorloni.7075eiujtn.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\cadastro.css",
+      "PackagePath": "staticwebassets\\css\\cadastro.css"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\feed.css",
+      "PackagePath": "staticwebassets\\css\\feed.css"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\global.css",
+      "PackagePath": "staticwebassets\\css\\global.css"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\perfil.css",
+      "PackagePath": "staticwebassets\\css\\perfil.css"
+    },
+    {
       "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\BK-dev.jpg",
+      "PackagePath": "staticwebassets\\images\\BK-dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-05 141236.png",
+      "PackagePath": "staticwebassets\\images\\Captura de tela 2025-08-05 141236.png"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-07 112203.png",
+      "PackagePath": "staticwebassets\\images\\Captura de tela 2025-08-07 112203.png"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Childish-dev.jpg",
+      "PackagePath": "staticwebassets\\images\\Childish-dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\IMG_0481.JPG",
+      "PackagePath": "staticwebassets\\images\\IMG_0481.JPG"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\app-store.svg",
+      "PackagePath": "staticwebassets\\images\\app-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\beyonce-dev.webp",
+      "PackagePath": "staticwebassets\\images\\beyonce-dev.webp"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\brent-dev.jpg",
+      "PackagePath": "staticwebassets\\images\\brent-dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\bruno-dev.webp",
+      "PackagePath": "staticwebassets\\images\\bruno-dev.webp"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\dakota-a-dev.jpg",
+      "PackagePath": "staticwebassets\\images\\dakota-a-dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\dakota-dev.webp",
+      "PackagePath": "staticwebassets\\images\\dakota-dev.webp"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\dj-dev.avif",
+      "PackagePath": "staticwebassets\\images\\dj-dev.avif"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\dj2-dev.avif",
+      "PackagePath": "staticwebassets\\images\\dj2-dev.avif"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\dj3-dev.webp",
+      "PackagePath": "staticwebassets\\images\\dj3-dev.webp"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\foto-perfil-DD.svg",
+      "PackagePath": "staticwebassets\\images\\foto-perfil-DD.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\foto-perfil-Dev.svg",
+      "PackagePath": "staticwebassets\\images\\foto-perfil-Dev.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\google-play.svg",
+      "PackagePath": "staticwebassets\\images\\google-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone casa.svg",
+      "PackagePath": "staticwebassets\\images\\icone casa.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone comentario.svg",
+      "PackagePath": "staticwebassets\\images\\icone comentario.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone coração.svg",
+      "PackagePath": "staticwebassets\\images\\icone coração.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone publicação.svg",
+      "PackagePath": "staticwebassets\\images\\icone publicação.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-casa-azul.svg",
+      "PackagePath": "staticwebassets\\images\\icone-casa-azul.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-casa-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-casa-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-comentario-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-comentario-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-coracao-azul.svg",
+      "PackagePath": "staticwebassets\\images\\icone-coracao-azul.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-coracao-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-coracao-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\icone-galeria-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-galeria-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\jay-z-dev.jpg",
+      "PackagePath": "staticwebassets\\images\\jay-z-dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\jorge-dev.jpg",
+      "PackagePath": "staticwebassets\\images\\jorge-dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\kendrick-dev.avif",
+      "PackagePath": "staticwebassets\\images\\kendrick-dev.avif"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\lima-dev.webp",
+      "PackagePath": "staticwebassets\\images\\lima-dev.webp"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-Dev-g.svg",
+      "PackagePath": "staticwebassets\\images\\logo-Dev-g.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-Dev-m.svg",
+      "PackagePath": "staticwebassets\\images\\logo-Dev-m.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-Dev-p.svg",
+      "PackagePath": "staticwebassets\\images\\logo-Dev-p.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-devconnect-lg.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-lg.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-devconnect-md.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-md.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-devconnect-sm.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-devconnect.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-devconnect2.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect2.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\logo-devconnect3.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect3.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\marrone-dev.webp",
+      "PackagePath": "staticwebassets\\images\\marrone-dev.webp"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\matheus-dev.jpg",
+      "PackagePath": "staticwebassets\\images\\matheus-dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\pablo-do-arrocha-dev.jpg",
+      "PackagePath": "staticwebassets\\images\\pablo-do-arrocha-dev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\post-gabigordo.svg",
+      "PackagePath": "staticwebassets\\images\\post-gabigordo.svg"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\simple calc.png",
+      "PackagePath": "staticwebassets\\images\\simple calc.png"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\tyler-dev.jpg",
+      "PackagePath": "staticwebassets\\images\\tyler-dev.jpg"
     },
     {
       "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\js\\site.js",

@@ -1,0 +1,177 @@
+    <link rel="stylesheet" href="~/css/feed.css">
+
+ <h1>Tela Feed - DevConnect</h1>
+    <header id="cabecalho">
+
+        <nav>
+            <a id="Logo-desktop" asp-controller="Home" asp-action="Index">
+                <img src="../images/logo-Dev-m.svg" alt="Logo da empresa DevConnect">
+            </a>
+
+            <a id="Logo-mobile" asp-controller="Home" asp-action="Index">
+                <img src="../images/logo-Dev-p.svg" alt="Logo da empresa DevConnect">
+            </a>
+
+            <div class="cabecalho-acoes">
+
+                <a href="./feed.html">
+                    <img src="../images/icone-coracao-preto.svg" alt="icone da empresa DevConnect">
+                </a>
+
+                <a asp-controller="Home" asp-action="Index">
+                    <img src="../images/icone-casa-preto.svg" alt="icone da empresa DevConnect">
+                </a>
+
+                <a href="./perfil.html">
+                    <img class="foto-perfil" src="../images/dakota-dev.webp" alt="foto-perfil">
+                </a>
+
+
+            </div>
+        </nav>
+    </header>
+    <main>
+        <div class="container-flex-publi">
+
+            <section id="storys" class="estilo-formulario">
+
+                <article class="card-story">
+
+                    <a href="#">
+                        <img src="../images/matheus-dev.jpg" alt="FOto de perfil">
+                        <span>Matheus</span>
+                    </a>
+                </article>
+                <article class="card-story">
+
+                    <a href="#">
+                        <img src="../images/jorge-dev.jpg" alt="FOto de perfil">
+                        <span>Jorge</span>
+                    </a>
+                </article>
+                <article class="card-story">
+
+                    <a href="#">
+                        <img src="../images/BK-dev.jpg" alt="FOto de perfil">
+                        <span>BK</span>
+                    </a>
+                </article>
+                <article class="card-story">
+
+                    <a href="#">
+                        <img src="../images/brent-dev.jpg" alt="FOto de perfil">
+                        <span>Brent Faiyaz</span>
+                    </a>
+                </article>
+                <article class="card-story">
+
+                    <a href="#">
+                        <img src="../images/Childish-dev.jpg" alt="FOto de perfil">
+                        <span>Childish</span>
+                    </a>
+
+                </article>
+                <article class="card-story">
+
+                    <a href="#">
+                        <img src="../images/beyonce-dev.webp" alt="FOto de perfil">
+                        <span>Beyonce</span>
+                    </a>
+
+                </article>
+                <article class="card-story">
+
+                    <a href="#">
+                        <img src="../images/jay-z-dev.jpg" alt="FOto de perfil">
+                        <span>Jay-z</span>
+                    </a>
+
+                </article>
+                <article class="card-story">
+
+                    <a href="#">
+                        <img src="../images/tyler-dev.jpg" alt="FOto de perfil">
+                        <span>Tyler</span>
+                    </a>
+
+                </article>
+                <article class="card-story">
+
+                    <a href="#">
+                        <img src="../images/kendrick-dev.avif" alt="FOto de perfil">
+                        <span>Kendrick</span>
+                    </a>
+
+                </article>
+
+            </section>
+
+            <section id="cadastro-publi" class="estilo-formulario">
+                <h2>Publicação</h2>
+
+                <form action="">
+
+                    <textarea name="" id="" placeholder="Digite a descrição do post..."></textarea>
+
+                    <footer id="botoes-publi">
+
+                        <div>
+                            <label for="anexar" id="botao-upload">Faça upload da sua imagem aqui...</label>
+                            <div class="upload"> <input type="file" name="upload-imagem" id="anexar"> </div>
+
+                        </div>
+
+                        <button type="submit" class="formulario-botao-azul">Postar</button>
+
+                    </footer>
+
+                </form>
+
+            </section>
+            <section id="publicacoes">
+                <!-- Inicio card publicacao -->
+                <article class="card-publi">
+                    <header>
+
+                        <a href="./feed.html">
+                            <img class="foto-perfil" src="../images/dakota-dev.webp" alt="foto-perfil">
+                            <span>Dakota_.john_</span>
+
+                        </a>
+
+                    </header>
+
+                    <figure>
+
+                        <img class="foto-publi" src="../images/dj3-dev.webp" alt="post-dakota">
+
+                        <figcaption class="descricao-publicacao">
+                            Dakota_.john_
+                            <p>Apresentção de DEV_SEDUC_Moura.</p>
+                        </figcaption>
+
+                        <div class="interacoes-publicacao">
+                            <button>
+                                <img src="../images/icone-coracao-preto.svg" alt="">
+                            </button>
+
+                            <button>
+                                <img src="../images/icone-comentario-preto.svg" alt="">
+                            </button>
+
+                            <span>3.496 curtidas</span>
+
+                        </div>
+
+                    </figure>
+
+                    <button type="button">Ver todos os comentários</button>
+
+                </article>
+
+
+
+                <!-- Inicio card publicacao -->
+            </section>
+        </div>
+    </main>
