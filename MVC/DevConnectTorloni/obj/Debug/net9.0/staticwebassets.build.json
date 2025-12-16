@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8FRKuJyYBV25Sg0svaS7ocDAXiZLjaJ9428Jb5j8a74=",
+  "Hash": "bLxzaO6Z5p84QMrRwX5qJOJ48bfJ+sxlvWV5lHHS9Cg=",
   "Source": "DevConnectTorloni",
   "BasePath": "_content/DevConnectTorloni",
   "Mode": "Default",
@@ -1487,12 +1487,12 @@
       "OriginalItemSpec": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-vyfv1ac3lw.gz",
+      "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-bov20u00cv.gz",
       "SourceId": "DevConnectTorloni",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/DevConnectTorloni",
-      "RelativePath": "css/cadastro#[.{fingerprint=vyfv1ac3lw}]?.css.gz",
+      "RelativePath": "css/cadastro#[.{fingerprint=bov20u00cv}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1501,8 +1501,8 @@
       "RelatedAsset": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\cadastro.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "l1e9vf4hds",
-      "Integrity": "p7VzWJiIlgGUiULigUuS/Z6OjaFVmw/Wrurw4uGyEwk=",
+      "Fingerprint": "dx17yxqo2v",
+      "Integrity": "gSvXa2OodhkSjv2+ssPitNhRLW11lvf/vkB/uqLUvH4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\cadastro.css"
@@ -2026,8 +2026,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vyfv1ac3lw",
-      "Integrity": "l+suFxkJB35sJmrX7nMjfzALwCSkxuFPlRVBDRk/mgA=",
+      "Fingerprint": "bov20u00cv",
+      "Integrity": "JbtGYm03luHfPwIDPg9WLyYOARU6/xcxONXCY9oUkYA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\cadastro.css"
@@ -2264,6 +2264,90 @@
       "OriginalItemSpec": "wwwroot\\images\\bruno-dev.webp"
     },
     {
+      "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-02-13 164026.png",
+      "SourceId": "DevConnectTorloni",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\",
+      "BasePath": "_content/DevConnectTorloni",
+      "RelativePath": "images/Captura de tela 2025-02-13 164026#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ip2gl83ff",
+      "Integrity": "Z042MFF6WVLbwbh1Pl8xn5qDQGIDosj+7PnQ0SDoU9s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Captura de tela 2025-02-13 164026.png"
+    },
+    {
+      "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-02-13 164040.png",
+      "SourceId": "DevConnectTorloni",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\",
+      "BasePath": "_content/DevConnectTorloni",
+      "RelativePath": "images/Captura de tela 2025-02-13 164040#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fpf4rd42h9",
+      "Integrity": "gzef7VxA7o5qKVtzl7jklHOIVxbzxgv6Y1dhoeWKCAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Captura de tela 2025-02-13 164040.png"
+    },
+    {
+      "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-04-10 131459.png",
+      "SourceId": "DevConnectTorloni",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\",
+      "BasePath": "_content/DevConnectTorloni",
+      "RelativePath": "images/Captura de tela 2025-04-10 131459#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kj5fnxuhwq",
+      "Integrity": "MHvqEAy3GSTwL23ABn6aLCOPc9SX8eE51C1tQ+XTYyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Captura de tela 2025-04-10 131459.png"
+    },
+    {
+      "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-04-15 130900.png",
+      "SourceId": "DevConnectTorloni",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\",
+      "BasePath": "_content/DevConnectTorloni",
+      "RelativePath": "images/Captura de tela 2025-04-15 130900#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9rc54e2xi8",
+      "Integrity": "1aul5BR/5YAz+AyaaHfHu0FmTa1QZvpxKx/Jw7aYOVY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Captura de tela 2025-04-15 130900.png"
+    },
+    {
       "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-05 141236.png",
       "SourceId": "DevConnectTorloni",
       "SourceType": "Discovered",
@@ -2283,6 +2367,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Captura de tela 2025-08-05 141236.png"
+    },
+    {
+      "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-07 111744.png",
+      "SourceId": "DevConnectTorloni",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\",
+      "BasePath": "_content/DevConnectTorloni",
+      "RelativePath": "images/Captura de tela 2025-08-07 111744#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xefjtw0cn5",
+      "Integrity": "N27wyX2TGPWQXc2amG7r/Cvj0XwNGKI4kvgAYmdCfSw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Captura de tela 2025-08-07 111744.png"
     },
     {
       "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-07 112203.png",
@@ -3144,6 +3249,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\tyler-dev.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\WIN_20251216_10_49_25_Pro.jpg",
+      "SourceId": "DevConnectTorloni",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\",
+      "BasePath": "_content/DevConnectTorloni",
+      "RelativePath": "images/WIN_20251216_10_49_25_Pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7hk6kiwjk0",
+      "Integrity": "1XZ2fI6aH7v7tZDjGmi7Lni75pElT8HidBeYah6Ihhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\WIN_20251216_10_49_25_Pro.jpg"
     },
     {
       "Identity": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\js\\site.js",
@@ -4429,13 +4555,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/cadastro.css",
-      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-vyfv1ac3lw.gz",
+      "Route": "css/cadastro.bov20u00cv.css",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-bov20u00cv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001953125000"
+          "Quality": "0.001915708812"
         }
       ],
       "ResponseHeaders": [
@@ -4445,19 +4571,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "511"
+          "Value": "521"
         },
         {
           "Name": "ETag",
-          "Value": "\"p7VzWJiIlgGUiULigUuS/Z6OjaFVmw/Wrurw4uGyEwk=\""
+          "Value": "\"gSvXa2OodhkSjv2+ssPitNhRLW11lvf/vkB/uqLUvH4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Dec 2025 12:05:25 GMT"
+          "Value": "Tue, 16 Dec 2025 14:04:50 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4473,18 +4599,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"l+suFxkJB35sJmrX7nMjfzALwCSkxuFPlRVBDRk/mgA=\""
+          "Value": "W/\"JbtGYm03luHfPwIDPg9WLyYOARU6/xcxONXCY9oUkYA=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bov20u00cv"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadastro.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-l+suFxkJB35sJmrX7nMjfzALwCSkxuFPlRVBDRk/mgA="
+          "Value": "sha256-JbtGYm03luHfPwIDPg9WLyYOARU6/xcxONXCY9oUkYA="
         }
       ]
     },
     {
-      "Route": "css/cadastro.css",
+      "Route": "css/cadastro.bov20u00cv.css",
       "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\cadastro.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4494,7 +4628,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1670"
+          "Value": "1706"
         },
         {
           "Name": "Content-Type",
@@ -4502,121 +4636,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l+suFxkJB35sJmrX7nMjfzALwCSkxuFPlRVBDRk/mgA=\""
+          "Value": "\"JbtGYm03luHfPwIDPg9WLyYOARU6/xcxONXCY9oUkYA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Dec 2025 12:05:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-l+suFxkJB35sJmrX7nMjfzALwCSkxuFPlRVBDRk/mgA="
-        }
-      ]
-    },
-    {
-      "Route": "css/cadastro.css.gz",
-      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-vyfv1ac3lw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "511"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p7VzWJiIlgGUiULigUuS/Z6OjaFVmw/Wrurw4uGyEwk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 09 Dec 2025 12:05:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-p7VzWJiIlgGUiULigUuS/Z6OjaFVmw/Wrurw4uGyEwk="
-        }
-      ]
-    },
-    {
-      "Route": "css/cadastro.vyfv1ac3lw.css",
-      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-vyfv1ac3lw.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001953125000"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "511"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p7VzWJiIlgGUiULigUuS/Z6OjaFVmw/Wrurw4uGyEwk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 09 Dec 2025 12:05:25 GMT"
+          "Value": "Tue, 16 Dec 2025 14:04:50 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"l+suFxkJB35sJmrX7nMjfzALwCSkxuFPlRVBDRk/mgA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vyfv1ac3lw"
+          "Value": "bov20u00cv"
         },
         {
           "Name": "label",
@@ -4624,13 +4658,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-l+suFxkJB35sJmrX7nMjfzALwCSkxuFPlRVBDRk/mgA="
+          "Value": "sha256-JbtGYm03luHfPwIDPg9WLyYOARU6/xcxONXCY9oUkYA="
         }
       ]
     },
     {
-      "Route": "css/cadastro.vyfv1ac3lw.css",
-      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\cadastro.css",
+      "Route": "css/cadastro.bov20u00cv.css.gz",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-bov20u00cv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4639,7 +4673,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1670"
+          "Value": "521"
         },
         {
           "Name": "Content-Type",
@@ -4647,56 +4681,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"l+suFxkJB35sJmrX7nMjfzALwCSkxuFPlRVBDRk/mgA=\""
+          "Value": "\"gSvXa2OodhkSjv2+ssPitNhRLW11lvf/vkB/uqLUvH4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 09 Dec 2025 12:05:25 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vyfv1ac3lw"
-        },
-        {
-          "Name": "label",
-          "Value": "css/cadastro.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-l+suFxkJB35sJmrX7nMjfzALwCSkxuFPlRVBDRk/mgA="
-        }
-      ]
-    },
-    {
-      "Route": "css/cadastro.vyfv1ac3lw.css.gz",
-      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-vyfv1ac3lw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "511"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"p7VzWJiIlgGUiULigUuS/Z6OjaFVmw/Wrurw4uGyEwk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 09 Dec 2025 12:05:25 GMT"
+          "Value": "Tue, 16 Dec 2025 14:04:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4714,7 +4703,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vyfv1ac3lw"
+          "Value": "bov20u00cv"
         },
         {
           "Name": "label",
@@ -4722,7 +4711,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-p7VzWJiIlgGUiULigUuS/Z6OjaFVmw/Wrurw4uGyEwk="
+          "Value": "sha256-gSvXa2OodhkSjv2+ssPitNhRLW11lvf/vkB/uqLUvH4="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.css",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-bov20u00cv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001915708812"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "521"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gSvXa2OodhkSjv2+ssPitNhRLW11lvf/vkB/uqLUvH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 14:04:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"JbtGYm03luHfPwIDPg9WLyYOARU6/xcxONXCY9oUkYA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbtGYm03luHfPwIDPg9WLyYOARU6/xcxONXCY9oUkYA="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.css",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\css\\cadastro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JbtGYm03luHfPwIDPg9WLyYOARU6/xcxONXCY9oUkYA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 14:04:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JbtGYm03luHfPwIDPg9WLyYOARU6/xcxONXCY9oUkYA="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.css.gz",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\obj\\Debug\\net9.0\\compressed\\qpkwzmn0rp-bov20u00cv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "521"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gSvXa2OodhkSjv2+ssPitNhRLW11lvf/vkB/uqLUvH4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 14:04:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gSvXa2OodhkSjv2+ssPitNhRLW11lvf/vkB/uqLUvH4="
         }
       ]
     },
@@ -7737,6 +7863,334 @@
       ]
     },
     {
+      "Route": "images/Captura de tela 2025-02-13 164026.1ip2gl83ff.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-02-13 164026.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "441326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z042MFF6WVLbwbh1Pl8xn5qDQGIDosj+7PnQ0SDoU9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 16:33:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ip2gl83ff"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Captura de tela 2025-02-13 164026.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z042MFF6WVLbwbh1Pl8xn5qDQGIDosj+7PnQ0SDoU9s="
+        }
+      ]
+    },
+    {
+      "Route": "images/Captura de tela 2025-02-13 164026.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-02-13 164026.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "441326"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z042MFF6WVLbwbh1Pl8xn5qDQGIDosj+7PnQ0SDoU9s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 16:33:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z042MFF6WVLbwbh1Pl8xn5qDQGIDosj+7PnQ0SDoU9s="
+        }
+      ]
+    },
+    {
+      "Route": "images/Captura de tela 2025-02-13 164040.fpf4rd42h9.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-02-13 164040.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gzef7VxA7o5qKVtzl7jklHOIVxbzxgv6Y1dhoeWKCAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 16:39:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fpf4rd42h9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Captura de tela 2025-02-13 164040.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gzef7VxA7o5qKVtzl7jklHOIVxbzxgv6Y1dhoeWKCAc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Captura de tela 2025-02-13 164040.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-02-13 164040.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442317"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gzef7VxA7o5qKVtzl7jklHOIVxbzxgv6Y1dhoeWKCAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 16:39:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gzef7VxA7o5qKVtzl7jklHOIVxbzxgv6Y1dhoeWKCAc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Captura de tela 2025-04-10 131459.kj5fnxuhwq.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-04-10 131459.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MHvqEAy3GSTwL23ABn6aLCOPc9SX8eE51C1tQ+XTYyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 14:06:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kj5fnxuhwq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Captura de tela 2025-04-10 131459.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MHvqEAy3GSTwL23ABn6aLCOPc9SX8eE51C1tQ+XTYyg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Captura de tela 2025-04-10 131459.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-04-10 131459.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "99602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MHvqEAy3GSTwL23ABn6aLCOPc9SX8eE51C1tQ+XTYyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 14:06:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MHvqEAy3GSTwL23ABn6aLCOPc9SX8eE51C1tQ+XTYyg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Captura de tela 2025-04-15 130900.9rc54e2xi8.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-04-15 130900.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1aul5BR/5YAz+AyaaHfHu0FmTa1QZvpxKx/Jw7aYOVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 16:43:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9rc54e2xi8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Captura de tela 2025-04-15 130900.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1aul5BR/5YAz+AyaaHfHu0FmTa1QZvpxKx/Jw7aYOVY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Captura de tela 2025-04-15 130900.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-04-15 130900.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440741"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1aul5BR/5YAz+AyaaHfHu0FmTa1QZvpxKx/Jw7aYOVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 11 Dec 2025 16:43:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1aul5BR/5YAz+AyaaHfHu0FmTa1QZvpxKx/Jw7aYOVY="
+        }
+      ]
+    },
+    {
       "Route": "images/Captura de tela 2025-08-05 141236.png",
       "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-05 141236.png",
       "Selectors": [],
@@ -7815,6 +8269,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-FwWTVT46sm44Ym7AjubhxCQWj6BKEtSjQ+LBvIgfFus="
+        }
+      ]
+    },
+    {
+      "Route": "images/Captura de tela 2025-08-07 111744.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-07 111744.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N27wyX2TGPWQXc2amG7r/Cvj0XwNGKI4kvgAYmdCfSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 19:25:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N27wyX2TGPWQXc2amG7r/Cvj0XwNGKI4kvgAYmdCfSw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Captura de tela 2025-08-07 111744.xefjtw0cn5.png",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-07 111744.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N27wyX2TGPWQXc2amG7r/Cvj0XwNGKI4kvgAYmdCfSw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 19:25:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xefjtw0cn5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Captura de tela 2025-08-07 111744.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N27wyX2TGPWQXc2amG7r/Cvj0XwNGKI4kvgAYmdCfSw="
         }
       ]
     },
@@ -16145,6 +16681,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-hdDysw6HKLTuXDutYBStsx/cxZTqd24sXgob7BtSB9M="
+        }
+      ]
+    },
+    {
+      "Route": "images/WIN_20251216_10_49_25_Pro.7hk6kiwjk0.jpg",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\WIN_20251216_10_49_25_Pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XZ2fI6aH7v7tZDjGmi7Lni75pElT8HidBeYah6Ihhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 13:49:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7hk6kiwjk0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/WIN_20251216_10_49_25_Pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XZ2fI6aH7v7tZDjGmi7Lni75pElT8HidBeYah6Ihhk="
+        }
+      ]
+    },
+    {
+      "Route": "images/WIN_20251216_10_49_25_Pro.jpg",
+      "AssetFile": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\WIN_20251216_10_49_25_Pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "177476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1XZ2fI6aH7v7tZDjGmi7Lni75pElT8HidBeYah6Ihhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 16 Dec 2025 13:49:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1XZ2fI6aH7v7tZDjGmi7Lni75pElT8HidBeYah6Ihhk="
         }
       ]
     },

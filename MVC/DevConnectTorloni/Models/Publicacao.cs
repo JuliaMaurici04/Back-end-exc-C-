@@ -12,10 +12,10 @@ public partial class Publicacao
     public int Id { get; set; }
 
     [StringLength(255)]
-    public string? Descricao { get; set; }
+    public string Descricao { get; set; } = null!;
 
-    [StringLength(150)]
-    public string ImagemUrl { get; set; } = null!;
+    [StringLength(255)]
+    public string? ImagemUrl { get; set; } 
 
     public DateOnly DataPublicacao { get; set; }
 

@@ -1,5 +1,20 @@
+    @model List<DevConnectTorloni.Models.Publicacao>
+    @using Microsoft.EntityFrameworkCore.Metadata.Internal
+@using Microsoft.IdentityModel.Tokens
+
     <link rel="stylesheet" href="~/css/feed.css">
 
+    <script defer>
+    const novaPublicacao = "@ViewBag.novaPublicacao";
+
+    if (novaPublicacao == "Nao publicado") {
+        alert("Post nao publicado! Tente novamente 😔");
+    }else if(novaPublicacao == "Publicado"){
+            alert("Publicação postada...");
+    }
+
+</script>
+   
  <h1>Tela Feed - DevConnect</h1>
     <header id="cabecalho">
 
@@ -109,15 +124,16 @@
             <section id="cadastro-publi" class="estilo-formulario">
                 <h2>Publicação</h2>
 
-                <form action="">
+                <form enctype="multipart/form-data" asp-action="Index" asp-controller="Feed">
 
-                    <textarea name="" id="" placeholder="Digite a descrição do post..."></textarea>
+                    <textarea  name="Descricao" id="" placeholder="Digite a descrição do post..."></textarea>
 
                     <footer id="botoes-publi">
 
                         <div>
                             <label for="anexar" id="botao-upload">Faça upload da sua imagem aqui...</label>
-                            <div class="upload"> <input type="file" name="upload-imagem" id="anexar"> </div>
+                            <div class="upload"> 
+                            <input type="file" name="imagem" id="anexar" > </div>
 
                         </div>
 
@@ -129,8 +145,12 @@
 
             </section>
             <section id="publicacoes">
-                <!-- Inicio card publicacao -->
-                <article class="card-publi">
+                @foreach (Publicacao publicacao in Model)
+                {
+                    if(!publicacao.ImagemUrl.IsNullOrEmpty())
+                    {
+                        <!-- Inicio card publicacao -->
+                        <article class="card-publi">
                     <header>
 
                         <a href="./feed.html">
@@ -143,11 +163,11 @@
 
                     <figure>
 
-                        <img class="foto-publi" src="../images/dj3-dev.webp" alt="post-dakota">
+                        <img class="foto-publi" src="../images/@publicacao.ImagemUrl" alt="">
 
                         <figcaption class="descricao-publicacao">
                             Dakota_.john_
-                            <p>Apresentção de DEV_SEDUC_Moura.</p>
+                            <p>@publicacao.Descricao</p>
                         </figcaption>
 
                         <div class="interacoes-publicacao">
@@ -167,11 +187,59 @@
 
                     <button type="button">Ver todos os comentários</button>
 
-                </article>
+                        </article>
+                        <!-- Inicio card publicacao -->
+                }
+
+                //so ira exibir publicacoes que nao possuem imagens
+                else
+ {
+                        <!-- Inicio card publicacao -->
+                        <article class="card-publi">
+                    <header>
+
+                        <a href="./feed.html">
+                            <img class="foto-perfil" src="../images/dakota-dev.webp" alt="foto-perfil">
+                            <span>Dakota_.john_</span>
+
+                        </a>
+
+                    </header>
+
+                    <figure>
+
+                        <figcaption class="descricao-publicacao">
+                            Dakota_.john_
+                            <p>@publicacao.Descricao</p>
+                        </figcaption>
+
+                        <div class="interacoes-publicacao">
+                            <button>
+                                <img src="../images/icone-coracao-preto.svg" alt="">
+                            </button>
+
+                            <button>
+                                <img src="../images/icone-comentario-preto.svg" alt="">
+                            </button>
+
+                            <span>3.496 curtidas</span>
+
+                        </div>
+
+                    </figure>
+
+                    <button type="button">Ver todos os comentários</button>
+
+                        </article>
+                        <!-- Inicio card publicacao -->
+                }         
+            }
+                
+                
 
 
 
-                <!-- Inicio card publicacao -->
+               
             </section>
         </div>
     </main>

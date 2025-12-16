@@ -37,8 +37,28 @@
       "PackagePath": "staticwebassets\\images\\BK-dev.jpg"
     },
     {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-02-13 164026.png",
+      "PackagePath": "staticwebassets\\images\\Captura de tela 2025-02-13 164026.png"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-02-13 164040.png",
+      "PackagePath": "staticwebassets\\images\\Captura de tela 2025-02-13 164040.png"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-04-10 131459.png",
+      "PackagePath": "staticwebassets\\images\\Captura de tela 2025-04-10 131459.png"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-04-15 130900.png",
+      "PackagePath": "staticwebassets\\images\\Captura de tela 2025-04-15 130900.png"
+    },
+    {
       "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-05 141236.png",
       "PackagePath": "staticwebassets\\images\\Captura de tela 2025-08-05 141236.png"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-07 111744.png",
+      "PackagePath": "staticwebassets\\images\\Captura de tela 2025-08-07 111744.png"
     },
     {
       "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\Captura de tela 2025-08-07 112203.png",
@@ -51,6 +71,10 @@
     {
       "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\IMG_0481.JPG",
       "PackagePath": "staticwebassets\\images\\IMG_0481.JPG"
+    },
+    {
+      "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\WIN_20251216_10_49_25_Pro.jpg",
+      "PackagePath": "staticwebassets\\images\\WIN_20251216_10_49_25_Pro.jpg"
     },
     {
       "Id": "C:\\Users\\47709625843\\Desktop\\BackEnd\\MVC\\DevConnectTorloni\\wwwroot\\images\\app-store.svg",

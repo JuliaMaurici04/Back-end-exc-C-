@@ -80,3 +80,7 @@ main>div {
     align-items: center;
     color: var(--cor-cinza-claro1);
 }
+
+#arquivo{
+    display: none;
+}
